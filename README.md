@@ -8,7 +8,8 @@
 _A lightweight SuperFast , Software for prouctivity, A Windows utility that lets you check your network information in a beautiful popup without opening any browser or command prompt.Just by hovering over Taskbar icon of HoverIP._
 
 <p>
-<a href="https://apps.microsoft.com/">
+<a href="https://apps.microsoft.com/detail/9nn72nhcvllm
+">
 <img src="https://github.com/K777T/HoverIP/blob/main/Assets/microsoft_download.png " width="200" alt="Download from Microsoft Store"/>
 </a>
 &nbsp;
@@ -63,7 +64,8 @@ HoverIP lives quietly in your Windows system tray and instantly displays your **
 Download HoverIP from the **Microsoft Store** below for the best experience.
 
 <p style="text-align: center;">
-  <a href="https://apps.microsoft.com/">
+  <a href="https://apps.microsoft.com/detail/9nn72nhcvllm
+">
     <img src="https://github.com/K777T/HoverIP/blob/main/Assets/microsoft_download.png" width="200" alt="Download from Microsoft Store">
   </a>
 </p>
@@ -138,12 +140,6 @@ Use the **GitHub Discussions** section to connect with the developer.
 <img src="https://github.com/K777T/HoverIP/blob/main/Assets/github_disucussions_2.png"width="180" alt="GitHub Discussions"/>
 </a>
 
-<p align="center">
- <a href="https://github.com/K777T/HoverIP/discussions">
- 
- <img src="https://img.shields.io/badge/Join-GitHub%20Discussions-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Talk in GitHub Discussions"/>
-</a>
-</p>
 
 ---
 
